@@ -1,13 +1,12 @@
 # Customer-Relationship-Manager
-Spring project on CRM
-# Chrome extension for SoundCloud Audio Controls
+Web app to manage the customers name and email address developed using Java , Spring framework , HTML and CSS.
 
-A chrome extension for SoundCloud that supports change/repeat/like/play/pause songs so that users do not have to navigate between tabs.
+Users can do basic CRUD operation in the Web app .
 
 # Local Installation
   1. Download the zip or clone the repository to a folder.
-  2. Go to Google Chrome extensions
-  3. Enable developer mode and load unpacked extension from the folder
+  2. Import the folder to Eclipse ( or your preferred IDE )
+  3. 
   4. Open SoundCloud in a new tab.
 
 # Usage
